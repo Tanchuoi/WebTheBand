@@ -1,1 +1,1 @@
-A simple landing page using only HTML
+A simple landing page using only HTML & CSS
